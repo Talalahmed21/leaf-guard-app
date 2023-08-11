@@ -2,7 +2,7 @@ import torch
 import streamlit as st 
 import numpy as np
 import pandas
-import cv2
+# import cv2
 import torchvision.transforms as transforms
 from PIL import Image
 from torch import nn
@@ -972,7 +972,7 @@ def main():
         st.write("Using Camera...")
 
         # Use OpenCV to capture video from the camera
-        cap = cv2.VideoCapture(0)
+        # cap = cv2.VideoCapture(0)
 
         if not cap.isOpened():
             st.error("Error: Unable to access the camera.")
