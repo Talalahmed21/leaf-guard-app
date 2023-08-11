@@ -2,7 +2,7 @@ import torch
 import streamlit as st 
 import numpy as np
 import pandas
-# import cv2
+# #import cv2
 import torchvision.transforms as transforms
 from PIL import Image
 from torch import nn
