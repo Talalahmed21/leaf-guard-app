@@ -1,0 +1,21 @@
+Tomato Target Spot Disease
+Tomato Target Spot is a fungal disease that affects tomato plants, causing distinctive circular lesions with dark centers and concentric rings on the leaves. These spots can expand and merge, leading to defoliation, reduced photosynthesis, and lower fruit quality.
+
+Possible Causes
+Humid Conditions: Target Spot thrives in humid environments, especially during warm and wet weather.
+Overhead Watering: Watering from above can splash fungal spores onto leaves, promoting disease spread.
+Crowded Planting: Dense planting can reduce air circulation and create favorable conditions for disease development.
+Poor Airflow: Insufficient air movement around plants can lead to prolonged leaf wetness and higher humidity.
+Infected Debris: Infected plant debris left in the garden can serve as a source of fungal spores.
+Weakened Plants: Stressed or weakened plants are more susceptible to Target Spot.
+
+Actions Required
+Regular Inspection: Routinely examine tomato plants for circular lesions with dark centers and concentric rings.
+Prune Affected Leaves: Immediately remove and destroy infected leaves to prevent disease spread.
+Air Circulation: Ensure proper spacing between plants to promote air circulation and reduce humidity.
+Drip Irrigation: Use drip irrigation or water at the base of plants to minimize leaf wetness.
+Fungicide: If necessary, apply fungicides recommended for Target Spot control, following label instructions.
+Mulching: Apply mulch around plants to prevent soil splash and reduce the risk of spore transmission.
+Plant Health: Maintain healthy plants through proper fertilization, watering, and overall care.
+Expert Consultation: Seek guidance from plant disease experts to confirm the presence of Target Spot and receive recommendations for treatment.
+Lab Testing: While your app uses image-based predictions, it's vital to verify the disease presence through laboratory testing conducted by a plant disease expert. Image predictions are based on similarities, but lab tests offer precise confirmation.

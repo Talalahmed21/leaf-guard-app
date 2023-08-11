@@ -1,0 +1,18 @@
+Squash Powdery Mildew Disease
+Squash Powdery Mildew is a fungal disease that affects squash plants, resulting in the appearance of white, powdery spots on the leaves, stems, and fruits. As the disease progresses, the affected parts can become distorted, leaves may yellow and wither, and overall plant health and fruit yield can be significantly compromised.
+
+Possible Causes
+Fungal Infection: The disease is caused by various species of the Erysiphales fungi, which thrive in warm and humid conditions.
+High Humidity: Powdery mildew tends to develop in high humidity environments, especially when there is poor air circulation.
+Crowded Planting: Overcrowding of plants can lead to reduced airflow and create a conducive environment for fungal growth.
+Environmental Stress: Stressed plants, such as those facing water stress or poor nutrition, are more susceptible to powdery mildew.
+Infected Plant Debris: The fungus can overwinter on plant debris and reinfect new plants in the growing season.
+
+Actions Required
+Prune Affected Parts: Remove and destroy severely infected leaves, stems, and fruits to prevent further spread.
+Fungicidal Treatment: Apply fungicidal sprays containing sulfur or other recommended fungicides to control the spread of the disease.
+Proper Plant Spacing: Provide adequate spacing between plants to improve air circulation and reduce humidity around the squash plants.
+Water Management: Water the plants early in the day to allow leaves to dry quickly and minimize conditions favorable for fungal growth.
+Expert Consultation: Consult with plant disease experts or agricultural extension services for accurate diagnosis and guidance on disease management.
+Expert Testing: While your app provides image-based predictions, it's essential to validate the diagnosis through laboratory testing by a plant disease expert. Visual predictions are based on similarities, but laboratory tests provide accurate confirmation.
+By taking timely actions and practicing proper disease management strategies, you can help prevent the spread of Squash Powdery Mildew and ensure healthier growth and better yield of your squash plants.

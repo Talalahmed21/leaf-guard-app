@@ -1,0 +1,18 @@
+Corn Common Rust Disease
+Corn Common Rust is a fungal disease that affects corn plants, characterized by the appearance of orange or rust-colored pustules on the leaves. These pustules release fungal spores that can spread the infection to other plants. The disease can weaken the plants, reduce photosynthesis, and ultimately impact the crop's yield.
+
+Possible Causes
+Moist Conditions: High humidity or frequent rain creates a suitable environment for rust development.
+Moderate Temperatures: Temperatures between 68-77°F (20-25°C) encourage rust growth.
+Plant Crowding: Overcrowded plants limit air circulation and increase humidity, promoting rust.
+Susceptible Varieties: Some corn varieties are more vulnerable to rust infection.
+Infected Residue: Spores can overwinter on infected plant debris, leading to early-season infections.
+
+Actions Required
+Prune and Dispose: Remove and destroy infected leaves to prevent spore spread.
+Provide Adequate Spacing: Proper spacing reduces humidity and minimizes disease spread.
+Fungicide Application: Use fungicides as advised by experts to manage the disease.
+Resistant Varieties: Consider planting rust-resistant corn varieties.
+Seek Expert Advice: Consult a plant pathologist or agricultural expert for accurate identification and guidance
+
+While your app offers a convenient method for identifying plant diseases, remember that the predictions are based on visual similarities. To ensure accurate diagnosis and effective treatment, it's advisable to consult with experts and conduct proper laboratory tests to confirm the presence of Corn Common Rust disease.

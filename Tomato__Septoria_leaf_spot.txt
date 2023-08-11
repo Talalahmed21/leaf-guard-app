@@ -1,0 +1,19 @@
+Tomato Septoria Leaf Spot Disease
+Tomato Septoria Leaf Spot is a common fungal disease that affects tomato plants, causing small, dark spots with light centers to develop on the leaves. As the disease progresses, these spots can enlarge and merge, leading to premature defoliation of the plant. Septoria Leaf Spot thrives in warm and humid conditions and can significantly impact tomato yields if left untreated.
+
+Possible Causes
+Fungal Pathogen: The disease is caused by the fungus Septoria lycopersici, which spreads through splashing water, rain, or irrigation.
+Warm and Humid Weather: High humidity and warm temperatures create an ideal environment for the disease to thrive and spread.
+Overhead Watering: Watering plants from above, especially in the evening, can promote the spread of fungal spores from plant to plant.
+Infected Plant Material: Using infected transplants or contaminated tools can introduce the disease to your garden.
+Crowded Planting: Overcrowded planting and poor air circulation provide conditions for rapid disease spread.
+
+Actions Required
+Early Detection: Regularly inspect tomato plants for the characteristic small, dark spots with light centers on the leaves.
+Remove Infected Leaves: Promptly remove and destroy infected leaves to prevent further spread of the disease.
+Prune for Air Circulation: Properly space and prune tomato plants to improve air circulation, reducing humidity and slowing disease progression.
+Mulching: Apply mulch around the base of plants to prevent soil from splashing onto the foliage and spreading fungal spores.
+Fungicide Treatment: Apply fungicides labeled for Septoria Leaf Spot as a preventive measure or if symptoms are detected.
+Expert Consultation: Seek advice from plant disease experts to confirm the presence of Septoria Leaf Spot and receive guidance on effective control measures.
+Lab Testing: While your app provides image-based predictions, it's important to confirm the disease through laboratory testing by a plant disease expert. Image predictions are based on similarities, while lab tests offer accurate confirmation.
+By implementing these actions and consulting with experts, you can effectively manage Tomato Septoria Leaf Spot and protect your tomato plants from the negative impact of the disease. Additionally, confirming predictions through proper lab testing ensures accurate identification and treatment

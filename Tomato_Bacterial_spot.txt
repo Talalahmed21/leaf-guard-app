@@ -1,0 +1,16 @@
+Tomato Bacterial Spot Disease
+Tomato Bacterial Spot is a bacterial infection that affects tomato plants, causing the development of dark, raised lesions on the leaves, stems, and fruits. These lesions can be surrounded by a yellow halo and may eventually turn necrotic, leading to the premature death of plant tissue. The disease can significantly impact fruit quality and yield.
+
+Possible Causes
+Bacterial Infection: The disease is primarily caused by the bacterium Xanthomonas species, which can be introduced through contaminated seeds, tools, or irrigation water.
+Warm and Humid Conditions: Bacterial Spot thrives in warm and humid environments, making it more prevalent during periods of high humidity or rainy weather.
+Poor Plant Hygiene: Lack of proper sanitation practices, such as cleaning tools and removing infected plant debris, can contribute to the spread of the disease.
+Overhead Watering: Watering plants from above can create a favorable environment for the bacteria to spread from plant to plant.
+
+Actions Required
+Isolation and Removal: Isolate and remove infected plants to prevent the spread of the disease to healthy ones. Prompt removal can help contain the infection.
+Copper-Based Sprays: Apply copper-based sprays to manage bacterial diseases. These sprays can help reduce bacterial growth and limit the spread.
+Hygiene Practices: Maintain good hygiene by sanitizing tools and equipment to minimize the risk of bacterial transmission.
+Proper Watering: Water the plants at the base to prevent water splashing and reduce humidity around the foliage.
+Seek Expert Opinion: Consult agricultural extension services or plant disease experts for accurate diagnosis and guidance on disease management.
+Testing and Expert Confirmation: While your app uses image-based predictions, it's recommended to confirm the diagnosis through laboratory testing by a plant disease expert. Visual predictions are based on similarities, but laboratory tests provide precise identification.

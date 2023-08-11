@@ -1,0 +1,20 @@
+Tomato Spider Mites (Two-Spotted Spider Mite) Disease
+Tomato Spider Mites, specifically the Two-Spotted Spider Mite, are tiny arachnids that infest tomato plants. They cause damage by feeding on plant sap, leading to a stippled or speckled appearance on leaves. Severe infestations can weaken the plant, affect growth, and reduce yield.
+
+Possible Causes
+Warm and Dry Conditions: Two-Spotted Spider Mites thrive in hot and dry environments, causing infestations to become more common during such conditions.
+Overcrowded Plants: Planting tomatoes too closely together can create an environment that promotes the spread of spider mites.
+Lack of Natural Predators: In the absence of natural predators, such as ladybugs, the spider mite population can quickly increase.
+Poor Plant Health: Stressed or unhealthy plants are more susceptible to spider mite infestations.
+Infected Plants: Introducing infected plants to your garden can introduce spider mites to healthy plants.
+
+Actions Required
+Regular Monitoring: Regularly inspect your tomato plants for signs of spider mite infestations, such as stippled leaves and fine webbing.
+Isolation: If you identify an infested plant, isolate it from healthy plants to prevent the mites from spreading.
+Water Management: Maintain proper watering practices to reduce the risk of drought stress, as spider mites thrive in dry conditions.
+Natural Predators: Encourage the presence of natural predators, such as ladybugs and predatory mites, to control spider mite populations.
+Pruning: Prune affected leaves and remove debris to eliminate hiding places for mites.
+Chemical Treatment: If infestations are severe, consider using insecticidal soap or neem oil to control the mite population.
+Expert Consultation: Seek advice from plant disease experts to confirm the presence of spider mites and receive guidance on appropriate measures.
+Lab Testing: While your app uses image-based predictions, it's important to verify the presence of spider mites through laboratory testing conducted by a plant disease expert. Visual predictions are based on similarities, but laboratory tests provide accurate confirmation.
+Taking prompt action to identify and manage Two-Spotted Spider Mite infestations, implementing preventive measures, and seeking guidance from experts will help protect your tomato plants and ensure a healthier yield.

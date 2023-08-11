@@ -1,0 +1,19 @@
+Potato Early Blight Disease
+Potato Early Blight is a common fungal disease caused by the pathogen Alternaria solani. It affects potato plants, leading to the development of distinctive circular lesions on the leaves. These lesions can result in reduced photosynthesis and, if severe, impact overall plant health and yield.
+
+Possible Causes
+Warm and Humid Conditions: Warm temperatures and high humidity create an environment conducive to disease development.
+Infected Plant Debris: The pathogen can overwinter in infected plant debris from previous seasons.
+Splashing Water: Rain or irrigation water can splash fungal spores onto leaves, initiating infection.
+Crowded Planting: Dense planting can restrict air circulation and lead to increased humidity around plants.
+Weakened Plants: Stressed or weakened plants are more susceptible to infection.
+
+Actions Required
+Prune and Dispose: Remove and dispose of infected leaves to prevent the spread of spores.
+Fungicide Application: Apply fungicides to protect healthy leaves and prevent further infection.
+Irrigation Management: Water plants at the base to avoid splashing water on leaves.
+Crop Rotation: Rotate potato crops to prevent buildup of the pathogen in the soil.
+Monitoring: Regularly inspect plants for symptoms and monitor disease progression.
+Expert Consultation: Seek advice from plant disease experts or agricultural extension services.
+Expert Validation: While your app provides preliminary predictions, consult experts for accurate diagnosis.
+Lab Testing: Confirm disease presence through proper lab tests conducted by experts.

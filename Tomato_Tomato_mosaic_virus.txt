@@ -1,0 +1,19 @@
+Tomato Mosaic Virus Disease
+Tomato Mosaic Virus is a viral disease that affects tomato plants, causing a mosaic-like pattern of light and dark green on the leaves. The virus disrupts the normal growth and development of the plant, leading to reduced yield and quality of tomatoes.
+
+Possible Causes
+Viral Infection: The disease is caused by the Tomato Mosaic Virus, which can be transmitted through infected seeds, plant debris, and mechanical means.
+Contaminated Tools: Using contaminated tools, such as pruning shears, can spread the virus from one plant to another.
+Aphid Vectors: Aphids can transmit the virus by feeding on infected plants and then moving to healthy ones.
+Infected Plants: Introducing infected plants into the garden can introduce the virus to healthy plants.
+Lack of Resistance: Some tomato varieties are more susceptible to the virus, making them prone to infection.
+
+Actions Required
+Remove Infected Plants: Promptly remove and destroy infected plants to prevent the spread of the virus to healthy plants.
+Sanitize Tools: Disinfect tools between use to prevent the transmission of the virus.
+Aphid Control: Implement aphid control measures to reduce the likelihood of virus transmission by these insects.
+Plant Resistant Varieties: Choose tomato varieties that are resistant to the Tomato Mosaic Virus.
+Proper Hygiene: Wash hands thoroughly after handling infected plants to avoid unintentional spread.
+Expert Consultation: Seek advice from plant disease experts to confirm the presence of the virus and receive guidance on appropriate measures.
+Lab Testing: While your app uses image-based predictions, it's important to verify the disease through laboratory testing conducted by a plant disease expert. Visual predictions are based on similarities, but laboratory tests provide accurate confirmation.
+Taking immediate action to remove infected plants, implementing preventive measures, and seeking guidance from experts will help control the spread of Tomato Mosaic Virus and protect your tomato crop from significant damage

@@ -1,0 +1,17 @@
+Tomato Early Blight Disease
+Tomato Early Blight is a fungal infection that affects tomato plants, causing the development of distinct dark spots with concentric rings on the lower leaves. As the disease progresses, the spots enlarge and can lead to defoliation, weakening the plant and reducing fruit yield.
+
+Possible Causes
+Fungal Infection: The disease is primarily caused by the fungus Alternaria solani, which can survive in plant debris and soil. It spreads through spores carried by wind, water, or human activity.
+Humid and Warm Conditions: Early Blight thrives in warm and humid environments, especially during rainy periods.
+Poor Air Circulation: Crowded planting and dense foliage can create conditions conducive to the spread of fungal spores.
+Contaminated Tools: Using contaminated tools, such as pruning shears, can transmit the fungus from one plant to another.
+
+Actions Required
+Prune Affected Leaves: Prune and remove infected leaves as soon as they appear. This can help prevent the spread of the disease to healthy leaves.
+Fungicidal Sprays: Apply fungicidal sprays that contain copper or other fungicides recommended for early blight management.
+Proper Plant Spacing: Ensure proper plant spacing to improve air circulation and reduce humidity around the plants.
+Water at the Base: Water the plants at the base to avoid wetting the foliage, which can create a favorable environment for fungal growth.
+Seek Expert Advice: Consult with plant disease experts or agricultural extension services for accurate diagnosis and guidance on disease management.
+Testing and Expert Confirmation: While your app uses image-based predictions, it's advisable to validate the diagnosis through laboratory testing by a plant disease expert. Visual predictions are based on similarities, but laboratory tests provide accurate identification.
+By taking proactive measures and promptly addressing Tomato Early Blight disease, you can mitigate its impact on your tomato plants and promote healthier growth and fruit production

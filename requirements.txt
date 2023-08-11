@@ -1,0 +1,8 @@
+pandas
+numpy
+streamlit
+torch
+torchvision
+pillow
+opencv-python
+pickle

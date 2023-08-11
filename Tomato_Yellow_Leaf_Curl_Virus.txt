@@ -1,0 +1,21 @@
+Tomato Yellow Leaf Curl Virus Disease
+Tomato Yellow Leaf Curl Virus (TYLCV) is a viral disease that affects tomato plants, causing yellowing and curling of leaves, stunted growth, and reduced fruit production. It is transmitted by whiteflies, which spread the virus as they feed on infected plants. TYLCV can lead to significant yield losses if not properly managed.
+
+Possible Causes
+Whitefly Infestation: The primary cause of TYLCV transmission is the presence of whiteflies that feed on infected plants and then spread the virus to healthy ones.
+Warm Climate: TYLCV is more prevalent in warm and tropical climates, where whiteflies are active and the virus can thrive.
+Poor Sanitation: Infected plant debris left in the garden can serve as a source of the virus and whiteflies, leading to disease spread.
+Lack of Resistant Varieties: Some tomato varieties are resistant to TYLCV. Planting susceptible varieties increases the risk of infection.
+Infected Transplants: Using infected transplants can introduce the virus into your garden.
+Weeds: Weeds can host TYLCV and whiteflies, contributing to disease spread.
+
+Actions Required
+Early Detection: Regularly monitor plants for symptoms such as yellowing, curling, and stunted growth.
+Whitefly Control: Implement whitefly management strategies, including sticky traps and introducing natural predators.
+Remove Infected Plants: Immediately remove and destroy infected plants to prevent further virus spread.
+Resistant Varieties: If available, consider planting tomato varieties that are resistant to TYLCV.
+Sanitation: Keep the garden clean by removing debris and weeds that can harbor the virus and whiteflies.
+Reflective Mulch: Using reflective mulch can deter whiteflies from settling on tomato plants.
+Expert Consultation: Seek guidance from plant disease experts to confirm the presence of TYLCV and receive advice on control measures.
+Lab Testing: While your app provides image-based predictions, it's crucial to confirm the virus through laboratory testing conducted by a plant disease expert. Image predictions are based on similarities, while lab tests offer accurate confirmation.
+Taking swift action to manage and control Tomato Yellow Leaf Curl Virus, along with following preventive measures, will aid in minimizing the impact of the disease on your tomato plants and ensuring healthy crop production

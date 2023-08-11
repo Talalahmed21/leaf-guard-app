@@ -1,0 +1,18 @@
+Potato Late Blight Disease
+Potato Late Blight is a devastating plant disease caused by the water mold Phytophthora infestans. It leads to the rapid and destructive decay of potato foliage and tubers, causing significant losses in crop yield and quality. The disease is particularly notorious for triggering the Irish Potato Famine in the mid-19th century.
+
+Possible Causes
+Favorable Weather Conditions: High humidity, cool temperatures, and rainy weather create ideal conditions for the disease to thrive.
+Pathogen Spread: The pathogen spreads through infected plant debris, wind-borne spores, and contaminated equipment.
+Infected Seed Tubers: Using infected seed potatoes can introduce the disease to healthy plants.
+Crowded Planting: Planting potatoes too closely together can create a humid microclimate that encourages disease development.
+Poor Air Circulation: Planting in areas with poor air movement promotes moisture buildup and pathogen growth.
+
+Actions Required
+Early Detection: Monitor plants regularly for symptoms and signs of the disease, especially during periods of high humidity.
+Fungicide Application: Timely application of fungicides can help control the disease, but they are most effective as preventive measures.
+Sanitation: Remove and destroy infected plants, tubers, and debris to prevent disease spread.
+Spacing and Airflow: Plant potatoes at recommended spacing to allow better air circulation and reduce humidity.
+Expert Consultation: Seek guidance from plant pathologists or agricultural extension experts.
+Expert Confirmation: Even though your app provides predictions based on similarities, consult experts for accurate diagnosis.
+Lab Testing: Validate predictions through laboratory tests conducted by experts to confirm the presence of the pathogen
