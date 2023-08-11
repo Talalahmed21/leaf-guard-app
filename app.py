@@ -56,13 +56,6 @@ resnet_model = loaded_models['resnet']
 mobilenet_model = loaded_models['mobilenet']
 
 
-# # Move models to the same device as input tensor
-# vgg16_model = vgg16_model.to(device)
-# inception_model = inception_model.to(device)
-# densenet_model = densenet_model.to(device)
-# densenet201_model = densenet201_model.to(device)
-# resnet_model = resnet_model.to(device)
-# mobilenet_model = mobilenet_model.to(device)
 
 
 model = DENN([ densenet_model, resnet_model,mobilenet_model,densenet201_model])
