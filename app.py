@@ -131,7 +131,7 @@ def predict_disease(image):
     #         st.image(image, caption="Uploaded Image", use_column_width=True)
 def main():
 
-    flag = False
+    # flag = False
 
     st.set_page_config(
             page_title="Plant Leaf Disease Detection",
@@ -163,7 +163,7 @@ def main():
             predicted_label, prediction_percentage = predict_disease(image)
             st.write(f"Predicted Disease: {predicted_label}")
             # st.write(f"Prediction Percentage: {prediction_percentage:.2f}%")
-            st.write(predicted_label)
+            # st.write(predicted_label)
             # Additional information for "Apple__Apple_scab"
             if (predicted_label == "Apple__Apple_scab") or (predicted_label == "Apple__Apple_scab"):
 
