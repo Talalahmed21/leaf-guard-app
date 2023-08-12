@@ -246,34 +246,34 @@ def main():
                 for line in c[1:]:
                     st.write(f"- {line}")
              
-            elif predicted_label == 'Background_without_leaves':
+            # elif predicted_label == 'Background_without_leaves':
 
-                with open('Background_without_leaves.txt') as f:
-                    content = f.read()
-
-
-                a = content.split('\n\n')
-
-                b = a[0].split('Background Without Leaves Disease')
-                c = b[1].split('\n')
-                st.header('Background Without Leaves')
-                for line in c[1:]:
-                    st.write(line)
+            #     with open('Background_without_leaves.txt') as f:
+            #         content = f.read()
 
 
-                b = a[1].split('Possible Causes')
-                c = b[1].split('\n')
+            #     a = content.split('\n\n')
+
+            #     b = a[0].split('Background Without Leaves Disease')
+            #     c = b[1].split('\n')
+            #     st.header('Background Without Leaves')
+            #     for line in c[1:]:
+            #         st.write(line)
+
+
+            #     b = a[1].split('Possible Causes')
+            #     c = b[1].split('\n')
                 
-                st.header('Possible Causes')
-                for line in c[1:]:
-                    st.write(f"- {line}")
+            #     st.header('Possible Causes')
+            #     for line in c[1:]:
+            #         st.write(f"- {line}")
 
-                b = a[2].split('Actions Required')
-                c = b[1].split('\n')
+            #     b = a[2].split('Actions Required')
+            #     c = b[1].split('\n')
 
-                st.header('Actions Required')
-                for line in c[1:]:
-                    st.write(f"- {line}")
+            #     st.header('Actions Required')
+            #     for line in c[1:]:
+            #         st.write(f"- {line}")
 
             elif predicted_label == 'Cherry_Powdery_mildew':
 
