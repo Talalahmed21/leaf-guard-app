@@ -246,7 +246,8 @@ def main():
                 for line in c[1:]:
                     st.write(f"- {line}")
              
-            # elif predicted_label == 'Background_without_leaves':
+            elif predicted_label == 'Background_without_leaves':
+                st.write("No leaf detected")
 
             #     with open('Background_without_leaves.txt') as f:
             #         content = f.read()
