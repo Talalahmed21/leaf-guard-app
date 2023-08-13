@@ -8,9 +8,6 @@ from PIL import Image
 from torch import nn
 import pickle
 from torchvision.models.densenet import densenet201
-# from torchvision import models
-
-# inception_model = models.inception_v3(pretrained=True)
 
 
 def combine_predictions(outputs):
@@ -38,7 +35,6 @@ class DENN(nn.Module):
 
 # Find the correct key for the model in the checkpoint dictionary
 # Once you identify the correct key name, replace 'model_key' with that name
-
 with open('models.pkl', 'rb') as f:
     loaded_models=pickle.load(f)
 # # Now you can work with the loaded model on the CPU
@@ -50,17 +46,7 @@ densenet201_model = loaded_models['densenet201']
 resnet_model = loaded_models['resnet']
 mobilenet_model = loaded_models['mobilenet']
 
-
-
-
 model = DENN([ densenet_model, resnet_model,mobilenet_model,densenet201_model])
-# model = denn_model.to(device)
-
-# Create an instance of the Densenet-201 model
-# model = densenet201(pretrained=False, num_classes=39)  # Set the number of output classes to 39
-
-# # Load the state_dict to the model
-# model.load_state_dict(checkpoint['model_state_dict'])
 
 model.eval()  # Set the model to evaluation mode
 
@@ -92,34 +78,8 @@ def predict_disease(image):
     return predicted_label, prediction_percentage
 
 # Create the Streamlit app
-# def main():
-    # # Set the CSS style to make the background green
-    # green_bg = """
-    # <style>
-    # body {
-    #     background-color: #00ff00;
-    # }
-    # </style>
-    # """
-    # st.markdown(green_bg, unsafe_allow_html=True)
 
-    # st.title("Plant Leaf Disease Detection")
-
-
-    # # Add an option to upload an image or use the camera
-    # image_option = st.radio("Select Image Source:", ("Upload Image", "Use Camera"))
-
-    # if image_option == "Upload Image":
-    #     # Option to upload an image
-    #     uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
-
-    #     if uploaded_file is not None:
-    #         # Display the uploaded image
-    #         image = Image.open(uploaded_file)
-    #         st.image(image, caption="Uploaded Image", use_column_width=True)
 def main():
-
-    # flag = False
 
     st.set_page_config(
             page_title="Plant Leaf Disease Detection",
@@ -242,33 +202,34 @@ def main():
                     st.write(f"- {line}")
              
             elif predicted_label == 'Background_without_leaves':
+                st.write("No leaf detected")
 
-                with open('Background_without_leaves.txt') as f:
-                    content = f.read()
-
-
-                a = content.split('\n\n')
-
-                b = a[0].split('Background Without Leaves Disease')
-                c = b[1].split('\n')
-                st.header('Background Without Leaves')
-                for line in c[1:]:
-                    st.write(line)
+            #     with open('Background_without_leaves.txt') as f:
+            #         content = f.read()
 
 
-                b = a[1].split('Possible Causes')
-                c = b[1].split('\n')
+            #     a = content.split('\n\n')
+
+            #     b = a[0].split('Background Without Leaves Disease')
+            #     c = b[1].split('\n')
+            #     st.header('Background Without Leaves')
+            #     for line in c[1:]:
+            #         st.write(line)
+
+
+            #     b = a[1].split('Possible Causes')
+            #     c = b[1].split('\n')
                 
-                st.header('Possible Causes')
-                for line in c[1:]:
-                    st.write(f"- {line}")
+            #     st.header('Possible Causes')
+            #     for line in c[1:]:
+            #         st.write(f"- {line}")
 
-                b = a[2].split('Actions Required')
-                c = b[1].split('\n')
+            #     b = a[2].split('Actions Required')
+            #     c = b[1].split('\n')
 
-                st.header('Actions Required')
-                for line in c[1:]:
-                    st.write(f"- {line}")
+            #     st.header('Actions Required')
+            #     for line in c[1:]:
+            #         st.write(f"- {line}")
 
             elif predicted_label == 'Cherry_Powdery_mildew':
 
@@ -925,34 +886,6 @@ def main():
             st.write("Thank you for using the Plant Leaf Disease Detection app!")
                 
             
-
-            
-            
-
-
-                # # First Paragraph
-                # st.header("Apple Scab Disease")
-                # st.write("Apple scab is a fungal disease that affects apple trees, causing dark, scaly lesions on leaves, fruit, and sometimes even young twigs. The disease is caused by the fungus Venturia inaequalis, and it can significantly reduce fruit quality and yield if not treated promptly.")
-
-                # # Second Paragraph
-                # st.header("Possible Causes")
-                # st.write(
-                #     "- Humid weather and frequent rain, which create favorable conditions for fungal growth.\n"
-                #     "- Overcrowding of apple trees, leading to poor air circulation.\n"
-                #     "- Lack of proper sanitation, allowing the fungus to overwinter on fallen leaves and branches.\n"
-                #     "- Infected plant debris left in the vicinity of healthy apple trees.\n"
-                #     "- Lack of adequate sunlight and improper pruning, promoting a damp environment that favors disease development."
-                # )
-
-                # # Third Paragraph
-                # st.header("What Should We Do Now?")
-                # st.write(
-                #     "- **Consult an Expert:** If your plant is showing signs of apple scab disease, it's essential to consult a horticulturist or a plant disease expert for proper identification and advice.\n"
-                #     "- **Avoid Self-Diagnosis:** While our app provides predictions based on similarities, it is essential to verify the diagnosis through a professional plant disease test.\n"
-                #     "- **Implement Preventive Measures:** To control apple scab disease, consider implementing preventive measures like regular pruning to improve airflow, cleaning up fallen leaves, and using fungicides as recommended by experts.\n"
-                #     "- **Isolate Infected Plants:** If possible, isolate infected plants to prevent the spread of the disease to other healthy plants.\n"
-                #     "- **Monitor and Record:** Keep a close eye on the health of your apple trees, and document any changes or symptoms observed. This information will be valuable for the expert's assessment."
-                # )
 
 
     elif image_option == "Use Camera":
