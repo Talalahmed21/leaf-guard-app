@@ -38,11 +38,6 @@ class DENN(nn.Module):
 
 # Find the correct key for the model in the checkpoint dictionary
 # Once you identify the correct key name, replace 'model_key' with that name
-# checkpoint = torch.load('epochcheckpoint9.pth', map_location=torch.device('cpu'))
-# import torch
-
-# # Load the model while specifying that it should be loaded on the CPU
-# loaded_models = torch.load('models.pkl', map_location=torch.device('cpu'))
 
 with open('models.pkl', 'rb') as f:
     loaded_models=pickle.load(f)
